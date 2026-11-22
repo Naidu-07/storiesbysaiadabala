@@ -101,7 +101,7 @@ export const siteConfig = {
       primaryCta: "Explore Editorial Works",
       categoryTarget: "portrait-lifestyle",
       // videoUrl: "https://assets.mixkit.co/videos/preview/mixkit-model-holding-a-bouquet-of-flowers-42899-large.mp4",
-      fallbackImage: "/images/hero/hero_4.jpeg",
+      fallbackImage: "/images/hero/hero_4.jpg",
       accent: "#D8B48D",
     },
   ],
