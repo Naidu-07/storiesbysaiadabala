@@ -79,7 +79,7 @@ export const siteConfig = {
       categoryTarget: "wedding-photography",
       // High-quality cinematic wedding video & fallback image
       // videoUrl: "https://assets.mixkit.co/videos/preview/mixkit-bride-and-groom-posing-in-a-forest-42898-large.mp4",
-      fallbackImage: "/images/hero/hero_2.jpeg",
+      fallbackImage: "/images/hero/hero_2.jpg",
       accent: "#C5A880",
     },
     {
